@@ -1,0 +1,6 @@
+node_modules/
+node/
+
+.expo/
+.expo-shared/
+/IPAddress/IPAddress.js
