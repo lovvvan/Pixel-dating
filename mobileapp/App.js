@@ -12,8 +12,9 @@ import { createStackNavigator } from '@react-navigation/stack';
 import CurrentUserProvider from './Components/Context/CurrentUserProvider.js';
 import { LogBox } from 'react-native';
 
-LogBox.ignoreLogs(['Warning: ...']); // Ignore log notification by message
-LogBox.ignoreAllLogs();//Ignore all log notifications
+//Uncomment to ignore warnings on the phone
+//LogBox.ignoreLogs(['Warning: ...']); // Ignore log notification by message
+//LogBox.ignoreAllLogs();//Ignore all log notifications
 
 const Stack = createStackNavigator();
 

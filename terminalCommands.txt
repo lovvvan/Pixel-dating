@@ -1,0 +1,1 @@
+wt --startingDirectory  C:\Users\lovvv\programmering\4an\pixelice\Pixel-dating\mobileapp ; split-pane --startingDirectory  C:\Users\lovvv\programmering\4an\pixelice\Pixel-dating\pythonServer ; split-pane -H --startingDirectory  C:\Users\lovvv\programmering\4an\pixelice\Pixel-dating\pythonServer
