@@ -1,0 +1,14 @@
+[
+  {
+    "userIDs" : ["Lisa", "Ida"],
+    "dateOfCreation" : "2021-02-17",
+    "pixilisationLevel" : "2",
+    "messages" : []
+  },
+  {
+    "userIDs" : ["Lisa", "Yoda"],
+    "dateOfCreation" : "2021-02-20",
+    "pixilisationLevel" : "5",
+    "messages" : []
+  }
+]

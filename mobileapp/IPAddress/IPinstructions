@@ -1,0 +1,6 @@
+Create a file called IPAddress.js with these contents:
+
+// TODO : Change the IP bellow to match your desired host IP.
+var yourIP = '192.168.1.66';
+
+export {yourIP};

@@ -1,0 +1,44 @@
+[
+  {
+    "username" : "Ida",
+    "email" : "ida@mail.com",
+    "password" : "passIda",
+    "image" : "noImage",
+    "mostRecentChatId" : "",
+     "preferences" : {
+      "age" : "23",
+      "sex" : "female",
+      "location" : "Uppsala"
+    },
+    "bio" : "Hejhååå! Tjoflöjt!",
+    "icebreaker" : "Vad är din favoritfrukt?"
+  },
+  {
+    "username" : "Lisa",
+    "email" : "lisa@mail.com",
+    "password" : "passLisa",
+    "image" : "noImage",
+    "mostRecentChatId" : "",
+    "preferences" : {
+      "age" : "25",
+      "sex" : "female",
+      "location" : "Uppsala"
+      },
+    "bio" : "Hej hopp på en alptopp!",
+    "icebreaker" : "Är gul snö gott?"
+  },
+  {
+    "username" : "Yoda",
+    "email" : "yoda@mail.com",
+    "password" : "passYoda",
+    "image" : "noImage",
+    "mostRecentChatId" : "",
+    "preferences" : {
+      "age" : "900",
+      "sex" : "male",
+      "location" : "Uppsala"
+      },
+    "bio" : "Jag är grön!",
+    "icebreaker" : "The greatest teacher, failure is."
+  }
+]
