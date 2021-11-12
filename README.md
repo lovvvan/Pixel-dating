@@ -5,6 +5,14 @@ The purpose of this app was to create a dating app that focuses a little more on
 
 It is coded in React Native to work on both android and iOS. 
 
+## DEMO
+
+Here is a link to a short video demo of the app: https://www.youtube.com/watch?v=dZmlXWAWUmA 
+
+## System Architecture
+
+
+
 ## Run RestServer
 Make sure you have flask,flask_cors and flask-pymongo installed (pip install)
 Start server with the command :
