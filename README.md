@@ -12,7 +12,7 @@ Here is a link to a short video demo of the app: https://www.youtube.com/watch?v
 ## System Architecture
 The system consists of clients, two servers and a database. The account management, image handling, matcher, chat analyzer, and the database connection to mongoDB is in the REST-Api server. The messaging is handled in the Chat server. 
 
-![Image of the System Architecture](https://github.com/lovvvan/Pixel-dating/blob/main/PixelArchitecture.jpeg?raw=true)
+![Image of the System Architecture](https://github.com/lovvvan/Pixel-dating/blob/main/PixeliceArchitecture.jpeg?raw=true)
 
 ## Run RestServer
 Make sure you have flask,flask_cors and flask-pymongo installed (pip install)
