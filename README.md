@@ -1,4 +1,9 @@
 # Pixelice
+Pixelice is a dating app where the users profile pictures are pixelated so that they cannot see each other at first. As they talk, the images get less pixelated and after chatting even more the users can eventually see each others images. 
+
+The purpose of this app was to create a dating app that focuses a little more on personalities than looks. 
+
+It is coded in React Native to work on both android and iOS. 
 
 ## Run RestServer
 Make sure you have flask,flask_cors and flask-pymongo installed (pip install)
